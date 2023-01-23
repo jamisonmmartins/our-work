@@ -28,8 +28,6 @@ header {
     display: flex;
     flex-direction: column;
     gap: 1.6rem;
-
-    border: 1px solid orange ;
 }
 
 .container header h2 {
@@ -51,4 +49,17 @@ header {
 .container header p {
     color: rgba(10, 0, 57, 0.64);
     line-height: 3.2rem;
+}
+
+.container header a {
+    color: #090039;
+    text-decoration: none;
+    text-transform: capitalize;
+    line-height: 3.2rem;
+    
+    margin-top: 1.6rem;    
+}
+
+section {
+    margin-top: 7.7rem;
 }
