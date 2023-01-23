@@ -1,0 +1,26 @@
+:root {
+    font-size: 62.5%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #ECE9FD;
+    
+    padding: 6rem 2.3rem;
+
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 400;
+    font-size: 1.6rem;
+}
+
+.container {
+    max-width: 330px;
+
+    margin: auto;
+
+    border: 1px solid orange ;
+}
