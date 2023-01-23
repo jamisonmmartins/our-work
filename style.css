@@ -21,6 +21,25 @@ body {
     max-width: 330px;
 
     margin: auto;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
 
     border: 1px solid orange ;
+}
+
+.container header h2 {
+    text-transform: uppercase;
+    line-height: 3.2rem;
+    font-size: 1.6rem;
+    font-weight: 400;q
+}
+
+.container header h1 {
+    line-height: 4.8rem;
+    font-size: 4rem;
+    font-weight: 800;
 }
