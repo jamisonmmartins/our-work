@@ -15,6 +15,7 @@ body {
     font-family: 'Epilogue', sans-serif;
     font-weight: 400;
     font-size: 1.6rem;
+    
 }
 
 .container {
@@ -26,7 +27,7 @@ body {
 header {
     display: flex;
     flex-direction: column;
-    gap: 16px;
+    gap: 1.6rem;
 
     border: 1px solid orange ;
 }
@@ -45,4 +46,9 @@ header {
     line-height: 4.8rem;
     font-size: 4rem;
     font-weight: 800;
+}
+
+.container header p {
+    color: rgba(10, 0, 57, 0.64);
+    line-height: 3.2rem;
 }
