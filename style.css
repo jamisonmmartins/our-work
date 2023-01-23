@@ -32,13 +32,16 @@ header {
 }
 
 .container header h2 {
+    color: #7158EF;
+    letter-spacing: 3px;
     text-transform: uppercase;
     line-height: 3.2rem;
     font-size: 1.6rem;
-    font-weight: 400;q
+    font-weight: 400;
 }
 
 .container header h1 {
+    color: #090039;
     line-height: 4.8rem;
     font-size: 4rem;
     font-weight: 800;
